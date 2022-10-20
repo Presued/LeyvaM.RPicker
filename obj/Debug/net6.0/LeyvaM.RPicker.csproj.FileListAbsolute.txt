@@ -1,0 +1,15 @@
+/Users/manuel/Documents/LeyvaM.RPicker/bin/Debug/net6.0/LeyvaM.RPicker
+/Users/manuel/Documents/LeyvaM.RPicker/bin/Debug/net6.0/LeyvaM.RPicker.deps.json
+/Users/manuel/Documents/LeyvaM.RPicker/bin/Debug/net6.0/LeyvaM.RPicker.runtimeconfig.json
+/Users/manuel/Documents/LeyvaM.RPicker/bin/Debug/net6.0/LeyvaM.RPicker.dll
+/Users/manuel/Documents/LeyvaM.RPicker/bin/Debug/net6.0/LeyvaM.RPicker.pdb
+/Users/manuel/Documents/LeyvaM.RPicker/obj/Debug/net6.0/LeyvaM.RPicker.csproj.AssemblyReference.cache
+/Users/manuel/Documents/LeyvaM.RPicker/obj/Debug/net6.0/LeyvaM.RPicker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/manuel/Documents/LeyvaM.RPicker/obj/Debug/net6.0/LeyvaM.RPicker.AssemblyInfoInputs.cache
+/Users/manuel/Documents/LeyvaM.RPicker/obj/Debug/net6.0/LeyvaM.RPicker.AssemblyInfo.cs
+/Users/manuel/Documents/LeyvaM.RPicker/obj/Debug/net6.0/LeyvaM.RPicker.csproj.CoreCompileInputs.cache
+/Users/manuel/Documents/LeyvaM.RPicker/obj/Debug/net6.0/LeyvaM.RPicker.dll
+/Users/manuel/Documents/LeyvaM.RPicker/obj/Debug/net6.0/refint/LeyvaM.RPicker.dll
+/Users/manuel/Documents/LeyvaM.RPicker/obj/Debug/net6.0/LeyvaM.RPicker.pdb
+/Users/manuel/Documents/LeyvaM.RPicker/obj/Debug/net6.0/LeyvaM.RPicker.genruntimeconfig.cache
+/Users/manuel/Documents/LeyvaM.RPicker/obj/Debug/net6.0/ref/LeyvaM.RPicker.dll
